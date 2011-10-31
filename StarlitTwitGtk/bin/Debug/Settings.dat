@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SettingsData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <AuthInfo>
+    <UserAuthInfo>
+      <ScreenName>star_TF</ScreenName>
+      <ID>16285524</ID>
+      <AccessToken>16285524-wEHqkl41eMkhx20nUOAc9hs1bRG3QAGmzvyflaS1K</AccessToken>
+      <AccessTokenSecret>0vZsV7VOKqlRgc3HenolIpnMxmx9yo3ZHp5aAfCyZ5g</AccessTokenSecret>
+    </UserAuthInfo>
+  </AuthInfo>
+</SettingsData>

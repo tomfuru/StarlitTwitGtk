@@ -1,0 +1,28 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="StarlitTwitGtk/MainWindow.cs">
+    <Files>
+      <File FileName="StarlitTwitGtk/Twitter.cs" Line="3263" Column="47" />
+      <File FileName="StarlitTwitGtk/Utilization.cs" Line="284" Column="26" />
+      <File FileName="StarlitTwitGtk/MainWindow.cs" Line="234" Column="18" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="StarlitTwitGtk" expanded="True">
+            <Node name="MainWindow.cs" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State expanded="True" selected="True" />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="StarlitTwitGtk/MainWindow.cs" line="235" offsetX="389" offsetY="1566" expression="Vadjustment" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+</Properties>
